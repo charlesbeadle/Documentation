@@ -76,7 +76,7 @@ We must configure the plugin at the site-level, and we must configure an enrollm
 
 ### Site-Level Settings
 
-    Location: /courses/admin/settings.php?section=enrolsettingsautoenrol
+    Location: /admin/settings.php?section=enrolsettingsautoenrol
 
 Add instance to new courses: No
 
