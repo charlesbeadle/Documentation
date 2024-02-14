@@ -90,7 +90,7 @@ Default role assignment: Student
 
 Remove groups: No
 
-** !!! IMPORTANT !!! **  Auto unenrol action: Keep user enrolled
+__IMPORTANT!__ Auto unenrol action: Keep user enrolled
 
 Enrolment expiry action: Keep user enrolled
 
@@ -138,4 +138,4 @@ Unenroll inactive after: Never
 
 Send course welcome message: No
 
-** Then, set the user filtering conditions to the profile field(s) ** 
+__Then, set the user filtering conditions to the profile field(s)__
